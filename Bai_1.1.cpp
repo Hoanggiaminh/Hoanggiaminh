@@ -1,3 +1,4 @@
+//Xin chao
 #include <iostream>
 #define MAXN 100
 using namespace std;
